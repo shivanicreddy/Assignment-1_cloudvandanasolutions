@@ -1,0 +1,48 @@
+.head1
+{
+    text-align: center;
+    background-color: rgb(0, 112, 19);
+    color: white;
+}
+.head2
+{
+    padding: 1px;
+	white-space: nowrap;
+	background-color : rgb(62, 73, 42);
+	color: white;
+}
+td {
+    white-space: nowrap;
+	background-color : rgb(215, 247, 157);
+}
+
+.main_table
+{
+    margin-top: 90px;
+    
+} 
+.button_1,.button_2
+{
+    color: white;
+    background-color: grey;
+    padding: 8px;
+	cursor: pointer;
+	width: 150px;
+} 
+.button_1:hover{
+    background-color: rgb(37, 37, 37);
+
+}
+.button_2:hover{
+    background-color: rgb(37, 37, 37);
+
+}
+.main_but{
+    position: absolute;
+    left: 520px;
+} 
+#table_1
+{
+    border-collapse: collapse;
+    background-color:rgb(231, 228, 228);
+}
